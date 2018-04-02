@@ -1,0 +1,6 @@
+D:\Projects\Blockchain\PropertyOwnershipRegistration\bin\Debug\PropertyOwnershipRegistration.exe.config
+D:\Projects\Blockchain\PropertyOwnershipRegistration\bin\Debug\PropertyOwnershipRegistration.exe
+D:\Projects\Blockchain\PropertyOwnershipRegistration\bin\Debug\PropertyOwnershipRegistration.pdb
+D:\Projects\Blockchain\PropertyOwnershipRegistration\obj\Debug\PropertyOwnershipRegistration.exe
+D:\Projects\Blockchain\PropertyOwnershipRegistration\obj\Debug\PropertyOwnershipRegistration.pdb
+D:\Projects\Blockchain\PropertyOwnershipRegistration\obj\Debug\PropertyOwnershipRegistration.csprojResolveAssemblyReference.cache
